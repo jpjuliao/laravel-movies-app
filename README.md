@@ -1,3 +1,40 @@
+# 🎬 Movie App
+
+Welcome to the Movie App! This Laravel application allows you to browse popular movies and mark your favorites.
+
+## Features
+
+✨ Browse popular movies from The Movie Database (TMDb) API.
+❤️ Mark your favorite movies.
+📦 Store favorite movies in local storage.
+🔍 Search for specific movies.
+🖼️ View detailed information about each movie.
+
+## Installation
+
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/movie-app.git
+```
+
+2. Install dependencies:
+
+```
+composer install
+npm install
+```
+
+3. Set up your environment variables:
+- Rename `.env.example` to `.env`.
+- Add your TMDb API key to the `TMDB_API_KEY` variable.
+
+4. Compile assets:
+
+```
+npm run dev
+```
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
