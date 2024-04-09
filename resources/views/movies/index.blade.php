@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Movies</title>
+        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 	</head>
 	<body>
 		<div class="container">
